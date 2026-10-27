@@ -1,0 +1,35 @@
+nome_orgao,n,dias_medios,atraso_pct,satisfacao_media
+Prefeitura Municipal,82982,36.1,16.5,2.5
+Câmara Municipal,6180,19.6,14.4,2.97
+Prefeitura,17256,33.7,11.2,2.34
+Ministério da Saúde,30247,21.1,0.6,2.19
+Ministério da Previdência Social,45702,29.6,0.1,2.18
+Ministério do Trabalho e Emprego,102094,33.9,0.1,1.94
+Agência Nacional de Saúde Suplementar,7472,4.4,0.0,2.05
+Agência Nacional de Aviação Civil,21974,4.0,0.0,3.66
+Banco Central do Brasil,24605,2.8,0.0,2.06
+Agência Nacional de Transportes Terrestres,57522,22.7,0.0,2.2
+Empresa de Tecnologia e Informações da Previdência,23008,26.5,0.0,2.45
+Fundo Nacional de Desenvolvimento da Educação,5410,12.9,0.0,2.55
+Hospital Universitário,8395,7.6,0.0,3.24
+Agência Nacional de Vigilância Sanitária,9675,13.5,0.0,2.84
+Comando do Exército,6149,11.3,0.0,2.57
+Controladoria-Geral da União,12211,15.9,0.0,2.5
+EBSERH - Filial Complexo Hospitalar de Clínicas da Universidade Federal do Paraná,5338,8.3,0.0,3.04
+Empresa Brasileira de Correios e Telégrafos,7637,24.2,0.0,1.72
+Ministério Público do Estado do Rio de Janeiro,6285,3.9,0.0,2.8
+Instituto Nacional do Seguro Social,388352,25.9,0.0,1.91
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,20195,18.0,0.0,2.47
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis,18238,6.0,0.0,2.49
+Hospital das Clínicas,6389,9.7,0.0,3.57
+Ministério da Gestão e da Inovação em Serviços Públicos,15515,16.4,0.0,2.48
+Ministério da Agricultura e Pecuária,5378,10.3,0.0,3.16
+Ministério da Educação,25942,15.6,0.0,2.3
+"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",82147,6.5,0.0,2.41
+Ministério da Justiça e Segurança Pública,8567,12.1,0.0,2.44
+Ministério da Fazenda,97087,8.2,0.0,2.46
+Ministério dos Transportes,33820,8.3,0.0,2.3
+Polícia Federal,11547,8.1,0.0,2.46
+OGE/PI - Ouvidoria-Geral do Estado,9719,9.8,0.0,3.67
+STF - Supremo Tribunal Federal,38655,1.5,0.0,3.0
+Secretaria Nacional de Políticas Penais,6745,1.2,0.0,2.73

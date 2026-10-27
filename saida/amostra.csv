@@ -1,0 +1,91 @@
+id,ano,tipo_manifestacao,esfera,nome_orgao,uf_do_orgao,assunto,faixa_etaria,dias_para_resolucao,dias_de_atraso,prioridade_ref
+1,2025,Solicitação,Federal,Agência Nacional de Transportes Terrestres,DF,Transporte Rodoviário,Não Informado,2.0,,média
+2,2025,Reclamação,Estadual,Procuradoria-Geral do Estado - PGE,MS,Conduta ética e irregularidades de servidores,Não Informado,6.0,,média
+3,2025,Denúncia,Estadual,Agência Estadual de Administração do Sistema Penitenciário - AGEPEN,MS,Sistema Penitenciário,Não Informado,24.0,,alta
+4,2025,Comunicação,Estadual,SEDUC  - Secretaria de Estado da Educação,PI,Ensino Médio,Não Informado,4.0,,média
+5,2026,Reclamação,Municipal,Prefeitura Municipal,SC,Atendimento ao público,Não Informado,8.0,,média
+6,2026,Reclamação,Federal,Agência Nacional de Energia Elétrica,DF,Energia,Não Informado,3.0,,média
+7,2025,Solicitação,Federal,Agência Nacional de Transportes Terrestres,DF,Transporte Rodoviário,Não Informado,32.0,,média
+8,2026,Denúncia,Federal,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",RJ,"Autorização, Regulação e Fiscalização",Não Informado,4.0,,alta
+9,2025,Reclamação,Federal,Ministério da Justiça e Segurança Pública,DF,Tecnologia da Informação e Sistemas,Não Informado,14.0,,média
+10,2026,Solicitação,Estadual,OGE/PI - Ouvidoria-Geral do Estado,PI,Gestão Pública,Não Informado,0.0,,média
+11,2025,Elogio,Federal,Hospital Universitário,MS,Atendimento ao público,Não Informado,0.0,,baixa
+12,2025,Solicitação,Federal,Ministério da Pesca e Aquicultura,DF,Pesca Amadora e Esportiva,Não Informado,4.0,,média
+13,2025,Denúncia,Federal,Instituto Nacional do Seguro Social,DF,Descontos e Consignações,Não Informado,43.0,,alta
+14,2026,Sugestão,Federal,Universidade Federal do Paraná,PR,Educação Superior,Não Informado,34.0,,baixa
+15,2025,Reclamação,Federal,Banco Central do Brasil,DF,Atendimento,Não Informado,2.0,,média
+16,2025,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,36.0,,alta
+17,2025,Reclamação,Federal,EBSERH - Filial Complexo Hospitalar Universitário da UFPA,PA,Atendimento,Não Informado,1.0,,média
+18,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,86.0,,alta
+19,2026,Solicitação,Serviços Autônomos ou Conselhos Profissionais,Conselho Regional de Engenharia e Agronomia do Rio Grande do Norte - CREA-RN,RN,Registro e Cadastro de Empresas,Não Informado,0.0,,média
+20,2026,Denúncia,Federal,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",RJ,"Autorização, Regulação e Fiscalização",Não Informado,28.0,,alta
+21,2025,Comunicação,Municipal,Prefeitura,MT,Assédio moral,Não Informado,12.0,,média
+22,2025,Denúncia,Federal,Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis,DF,Biodiversidade,Não Informado,1.0,,alta
+23,2025,Comunicação,Municipal,Prefeitura Municipal,SC,Normas e Fiscalização,Não Informado,5.0,,média
+24,2025,Solicitação,Judiciário Federal,STF - Supremo Tribunal Federal,DF,Rede de Assistência e Proteção Social,Não Informado,0.0,,média
+25,2026,Solicitação,Federal,Hospital Universitário,MA,Assistência Hospitalar e Ambulatorial,Não Informado,5.0,,média
+26,2025,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,14.0,,alta
+27,2025,Denúncia,Municipal,Prefeitura Municipal,MG,Acesso à informação,Não Informado,20.0,,alta
+28,2026,Denúncia,Estadual,Instituto de Pesos e Medidas do  Estado do Espírito Santo  IPEM/ES,ES,Fiscalização do Estado,Não Informado,1.0,,alta
+29,2025,Solicitação,Estadual,IPEM - Instituto de Pesos e Medidas do Estado do Ceará,CE,Acesso à informação,Não Informado,0.0,,média
+30,2025,Comunicação,Federal,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",DF,Auxílio,Não Informado,6.0,,média
+31,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,27.0,,alta
+32,2026,Denúncia,Estadual,Instituto de Pesos e Medidas do  Estado do Rio de Janeiro  IPEM/RJ,RJ,Transparência e acesso à informação,Não Informado,4.0,,alta
+33,2025,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,10.0,,alta
+34,2025,Solicitação,Federal,Fundo Nacional de Desenvolvimento da Educação,DF,Educação Básica,Não Informado,22.0,,alta
+35,2026,Solicitação,Federal,Presidência da República,DF,Bibliotecas e Acervos Públicos,Não Informado,1.0,,média
+36,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,7.0,,alta
+37,2025,Solicitação,Federal,Ministério da Previdência Social,DF,Benefícios e serviços,Não Informado,8.0,,alta
+38,2026,Solicitação,Federal,Ministério dos Transportes,DF,Trânsito e mobilidade,Não Informado,59.0,,média
+39,2025,Reclamação,Federal,Empresa de Tecnologia e Informações da Previdência,DF,Gestão Pública,Não Informado,126.0,,média
+40,2025,Comunicação,Federal,Universidade Federal do Rio de Janeiro,RJ,Compras públicas,Não Informado,38.0,,média
+41,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,7.0,,alta
+42,2025,Reclamação,Federal,Empresa de Tecnologia e Informações da Previdência,DF,Benefícios e serviços,Não Informado,21.0,,alta
+43,2025,Elogio,Federal,Grupo Hospitalar Conceição S.A,RS,Assistência Hospitalar e Ambulatorial,Não Informado,5.0,,baixa
+44,2026,Reclamação,Federal,Ministério da Fazenda,DF,"Impostos, Dívida Ativa e Receita Federal",Não Informado,1.0,,média
+45,2026,Denúncia,Federal,Ministério da Saúde,DF,Corrupção,Não Informado,4.0,,alta
+46,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Descontos e Consignações,Não Informado,29.0,,média
+47,2025,Reclamação,Federal,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",DF,Programas e Benefícios Sociais,Não Informado,0.0,,alta
+48,2025,Reclamação,Federal,Ministério do Turismo,DF,Turismo,Não Informado,0.0,,média
+49,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,3.0,,alta
+50,2025,Solicitação,Federal,Ministério da Saúde,DF,Processo Seletivo,Não Informado,14.0,,média
+51,2025,Reclamação,Federal,Ministério da Previdência Social,DF,Benefícios e serviços,Não Informado,45.0,,alta
+52,2025,Sugestão,Federal,Ministério da Fazenda,DF,Tecnologia da Informação e Sistemas,40-59 anos,5.0,,baixa
+53,2025,Reclamação,Federal,Polícia Rodoviária Federal,DF,Multa,Não Informado,17.0,,média
+54,2025,Denúncia,Federal,Ministério da Fazenda,DF,"Impostos, Dívida Ativa e Receita Federal",Não Informado,18.0,,alta
+55,2026,Solicitação,Federal,Ministério dos Transportes,DF,Trânsito e mobilidade,Não Informado,17.0,,média
+56,2026,Elogio,Federal,Hospital Universitário Cassiano Antonio de Moraes,ES,Atendimento ao público,Não Informado,0.0,,baixa
+57,2026,Sugestão,Federal,Ministério da Justiça e Segurança Pública,DF,Atendimento ao público,Não Informado,0.0,,baixa
+58,2026,Denúncia,Federal,Ministério da Fazenda,DF,Prêmios e Apostas,Não Informado,0.0,,alta
+59,2026,Solicitação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,8.0,,alta
+60,2025,Denúncia,Federal,Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis,DF,Biodiversidade,Não Informado,0.0,,alta
+61,2025,Solicitação,Federal,Departamento Nacional de Infraestrutura de Transportes,DF,Infraestrutura rural e urbana,Não Informado,15.0,,média
+62,2025,Denúncia,Municipal,Prefeitura Municipal,MG,Gestão Pública,Não Informado,47.0,,alta
+63,2025,Sugestão,Federal,Ministério da Gestão e da Inovação em Serviços Públicos,DF,Conta Gov.Br,Não Informado,25.0,,baixa
+64,2025,Reclamação,Federal,Empresa Brasileira de Correios e Telégrafos,DF,Correios,Não Informado,38.0,,média
+65,2026,Comunicação,Federal,Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis,DF,Biodiversidade,Não Informado,1.0,,média
+66,2026,Solicitação,Federal,Hospital das Clínicas,PE,Assistência Hospitalar e Ambulatorial,Não Informado,11.0,,média
+67,2026,Denúncia,Federal,Polícia Federal,DF,Fiscalização do Estado,Não Informado,2.0,,alta
+68,2025,Solicitação,Federal,Fundo Nacional de Desenvolvimento da Educação,DF,Atendimento,Não Informado,3.0,,média
+69,2026,Comunicação,Federal,Hospital Universitário de Brasília,DF,Compras públicas,Não Informado,2.0,,média
+70,2026,Denúncia,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,83.0,,alta
+71,2026,Solicitação,Federal,Ministério do Trabalho e Emprego,DF,Cadastros e Documentação,Não Informado,2.0,,média
+72,2026,Sugestão,Federal,Presidência da República,DF,Gestão de Pessoas,Não Informado,26.0,,baixa
+73,2026,Denúncia,Municipal,Prefeitura Municipal,MG,Gestão Pública,Não Informado,192.0,,alta
+74,2025,Denúncia,Federal,Instituto Nacional do Seguro Social,DF,Programas e Benefícios Sociais,Não Informado,55.0,,alta
+75,2026,Comunicação,Municipal,Prefeitura Municipal de Osório,RS,Conduta ética e irregularidades de servidores,Não Informado,0.0,,média
+76,2025,Solicitação,Federal,Ministério da Fazenda,DF,Prêmios e Apostas,Não Informado,19.0,,média
+77,2025,Reclamação,Federal,Ministério da Saúde,DF,Programa Farmácia Popular do Brasil,Não Informado,29.0,,média
+78,2025,Reclamação,Federal,Ministério da Fazenda,DF,Bancos ,Não Informado,3.0,,média
+79,2025,Denúncia,Federal,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",MG,Conduta ética e irregularidades de servidores,Não Informado,29.0,,alta
+80,2025,Reclamação,Federal,Ministério da Pesca e Aquicultura,DF,Pesca Amadora e Esportiva,Não Informado,3.0,,média
+81,2025,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,12.0,,alta
+82,2025,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Dados Pessoais - LGPD,Não Informado,2.0,,média
+83,2026,Elogio,Federal,Universidade Federal do Agreste de Pernambuco,PE,Atendimento ao público,Não Informado,16.0,,baixa
+84,2026,Comunicação,Federal,Agência Nacional de Mineração,DF,Denúncia Crime,Não Informado,4.0,,média
+85,2025,Elogio,Municipal,Prefeitura Municipal,MG,Atendimento ao público,Não Informado,28.0,,baixa
+86,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,3.0,,alta
+87,2026,Denúncia,Municipal,Prefeitura Municipal,SC,Atendimento ao público,Não Informado,7.0,,alta
+88,2025,Comunicação,Federal,Ministério da Fazenda,DF,Prêmios e Apostas,Não Informado,3.0,,média
+89,2026,Reclamação,Federal,Instituto Nacional do Seguro Social,DF,Benefícios e serviços,Não Informado,30.0,,alta
+90,2026,Denúncia,Municipal,Prefeitura Municipal,SC,Conduta ética e irregularidades de servidores,Não Informado,36.0,,alta
